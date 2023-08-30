@@ -1,0 +1,468 @@
+,gameid,date,blue_team,blue_top,blue_jg,blue_mid,blue_adc,blue_supp,red_team,red_top,red_jg,red_mid,red_adc,red_supp,winner
+0,ESPORTSTMNT01_2700815,2022-01-12 06:20:03,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Liiv SANDBOX,Dove,Croco,Clozer,Envyy,Kael,Red
+1,ESPORTSTMNT01_2690695,2022-01-12 09:02:13,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Liiv SANDBOX,Dove,Croco,Clozer,Envyy,Kael,Red
+2,ESPORTSTMNT01_2690705,2022-01-12 10:07:10,T1,Zeus,Oner,Faker,Gumayusi,Keria,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+3,ESPORTSTMNT01_2690725,2022-01-12 11:49:28,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+4,ESPORTSTMNT01_2701248,2022-01-13 06:51:40,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+5,ESPORTSTMNT01_2701277,2022-01-13 08:53:53,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Blue
+6,ESPORTSTMNT01_2701282,2022-01-13 09:50:33,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Red
+7,ESPORTSTMNT01_2701289,2022-01-13 10:51:13,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,DWG KIA,HOYA,Canyon,ShowMaker,deokdam,Kellin,Red
+8,ESPORTSTMNT01_2701333,2022-01-13 12:51:51,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,DWG KIA,HOYA,Canyon,ShowMaker,deokdam,Kellin,Red
+9,ESPORTSTMNT01_2691507,2022-01-14 07:15:41,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+10,ESPORTSTMNT01_2691515,2022-01-14 08:42:06,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+11,ESPORTSTMNT01_2691518,2022-01-14 09:32:22,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
+12,ESPORTSTMNT01_2691546,2022-01-14 11:51:26,T1,Zeus,Oner,Faker,Gumayusi,Keria,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+13,ESPORTSTMNT01_2691557,2022-01-14 13:00:25,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+14,ESPORTSTMNT01_2701941,2022-01-15 07:01:59,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Liiv SANDBOX,Dove,Croco,Clozer,Envyy,Kael,Blue
+15,ESPORTSTMNT01_2701966,2022-01-15 08:40:17,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Liiv SANDBOX,Dove,Croco,Clozer,Envyy,Kael,Blue
+16,ESPORTSTMNT01_2701968,2022-01-15 09:32:02,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Red
+17,ESPORTSTMNT01_2701997,2022-01-15 11:43:59,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Red
+18,ESPORTSTMNT01_2702254,2022-01-16 06:26:21,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+19,ESPORTSTMNT01_2702297,2022-01-16 08:43:53,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+20,ESPORTSTMNT01_2702309,2022-01-16 09:46:53,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+21,ESPORTSTMNT01_2702317,2022-01-16 10:43:37,DWG KIA,HOYA,Canyon,ShowMaker,deokdam,Kellin,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Blue
+22,ESPORTSTMNT01_2702340,2022-01-16 12:24:56,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,DWG KIA,HOYA,Canyon,ShowMaker,deokdam,Kellin,Blue
+23,ESPORTSTMNT01_2692264,2022-01-16 13:39:12,DWG KIA,HOYA,Canyon,ShowMaker,deokdam,Kellin,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+24,ESPORTSTMNT01_2693789,2022-01-19 06:44:22,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,DWG KIA,HOYA,Canyon,ShowMaker,deokdam,Kellin,Blue
+25,ESPORTSTMNT01_2703805,2022-01-19 08:47:41,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Blue
+26,ESPORTSTMNT01_2703811,2022-01-19 09:54:42,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Blue
+27,ESPORTSTMNT01_2693854,2022-01-19 11:06:38,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+28,ESPORTSTMNT01_2693886,2022-01-19 12:43:18,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Red
+29,ESPORTSTMNT01_2704285,2022-01-20 06:11:55,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+30,ESPORTSTMNT01_2694425,2022-01-20 08:35:27,T1,Zeus,Oner,Faker,Gumayusi,Keria,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+31,ESPORTSTMNT01_2694428,2022-01-20 09:29:43,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+32,ESPORTSTMNT01_2694459,2022-01-20 11:43:17,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+33,ESPORTSTMNT01_2704900,2022-01-21 06:18:24,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+34,ESPORTSTMNT01_2704920,2022-01-21 08:41:24,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+35,ESPORTSTMNT01_2704929,2022-01-21 09:37:50,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Red
+36,ESPORTSTMNT01_2695078,2022-01-21 11:42:20,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Blue
+37,ESPORTSTMNT01_2695092,2022-01-21 12:34:43,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Red
+38,ESPORTSTMNT01_2705385,2022-01-22 06:48:19,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+39,ESPORTSTMNT01_2695530,2022-01-22 08:35:01,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+40,ESPORTSTMNT01_2695541,2022-01-22 09:34:31,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Red
+41,ESPORTSTMNT01_2695573,2022-01-22 11:37:56,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+42,ESPORTSTMNT01_2695586,2022-01-22 12:41:49,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+43,ESPORTSTMNT01_2705912,2022-01-23 05:38:44,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+44,ESPORTSTMNT01_2705943,2022-01-23 08:40:19,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+45,ESPORTSTMNT01_2705951,2022-01-23 09:29:12,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+46,ESPORTSTMNT01_2705978,2022-01-23 11:49:31,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+47,ESPORTSTMNT02_2570899,2022-01-26 08:06:00,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+48,ESPORTSTMNT02_2570934,2022-01-26 08:59:00,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+49,ESPORTSTMNT02_2570944,2022-01-26 11:05:00,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+50,ESPORTSTMNT02_2570976,2022-01-26 12:07:00,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+51,ESPORTSTMNT02_2551149,2022-01-27 07:03:13,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Blue
+52,ESPORTSTMNT02_2551178,2022-01-27 08:36:54,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Blue
+53,ESPORTSTMNT02_2551180,2022-01-27 09:39:44,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Red
+54,ESPORTSTMNT02_2551187,2022-01-27 10:41:31,T1,Zeus,Oner,Faker,Gumayusi,Keria,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Blue
+55,ESPORTSTMNT02_2551235,2022-01-27 12:31:11,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
+56,ESPORTSTMNT02_2551249,2022-01-27 13:28:34,T1,Zeus,Oner,Faker,Gumayusi,Keria,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Blue
+57,ESPORTSTMNT02_2551560,2022-01-28 04:58:00,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+58,ESPORTSTMNT02_2551611,2022-01-28 08:37:19,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+59,ESPORTSTMNT02_2551615,2022-01-28 09:29:24,Fredit BRION,Sw0rd,UmTi,Lava,Hena,Delight,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+60,ESPORTSTMNT02_2551647,2022-01-28 11:47:39,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Fredit BRION,Sw0rd,UmTi,Lava,Hena,Delight,Red
+61,ESPORTSTMNT02_2571957,2022-01-29 06:51:26,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Blue
+62,ESPORTSTMNT02_2572001,2022-01-29 08:50:13,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Red
+63,ESPORTSTMNT02_2572011,2022-01-29 09:54:23,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+64,ESPORTSTMNT02_2572063,2022-01-29 11:46:42,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+65,ESPORTSTMNT02_2552430,2022-01-30 06:56:25,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
+66,ESPORTSTMNT02_2552458,2022-01-30 09:08:32,T1,Zeus,Oner,Faker,Gumayusi,Keria,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Blue
+67,ESPORTSTMNT02_2552463,2022-01-30 10:08:32,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+68,ESPORTSTMNT02_2552467,2022-01-30 11:07:53,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Blue
+69,ESPORTSTMNT02_2552486,2022-01-30 12:47:40,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Red
+70,ESPORTSTMNT02_2577665,2022-02-09 08:07:00,T1,Zeus,Oner,Faker,Gumayusi,Keria,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Red
+71,ESPORTSTMNT02_2557691,2022-02-09 09:03:00,T1,Zeus,Oner,Faker,Gumayusi,Keria,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+72,ESPORTSTMNT02_2557693,2022-02-09 09:53:00,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+73,ESPORTSTMNT02_2557701,2022-02-09 11:51:00,DRX,Clear,Peach,SeTab,Deft,Jun,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Blue
+74,ESPORTSTMNT02_2557739,2022-02-09 12:21:54,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+75,ESPORTSTMNT02_2557772,2022-02-09 13:56:00,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Blue
+76,ESPORTSTMNT02_2558150,2022-02-10 08:08:00,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+77,ESPORTSTMNT02_2558182,2022-02-10 09:14:00,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+78,ESPORTSTMNT02_2558191,2022-02-10 09:47:08,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Gen.G,Doran,YoungJae,Chovy,Ruler,Lospa,Blue
+79,ESPORTSTMNT02_2558212,2022-02-10 11:40:38,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Gen.G,Doran,YoungJae,Chovy,Ruler,Lospa,Red
+80,ESPORTSTMNT02_2558221,2022-02-10 12:33:59,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Gen.G,Doran,YoungJae,Chovy,Ruler,Lospa,Red
+81,ESPORTSTMNT02_2558464,2022-02-11 06:09:43,Nongshim RedForce,Canna,Dread,FIESTA,vital,Blessing,Fredit BRION,Sw0rd,UmTi,Lava,Hena,Delight,Red
+82,ESPORTSTMNT02_2558481,2022-02-11 08:46:29,Nongshim RedForce,Canna,Dread,FIESTA,vital,Ghost,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+83,ESPORTSTMNT02_2578530,2022-02-11 09:52:39,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Nongshim RedForce,Canna,Dread,FIESTA,vital,Ghost,Blue
+84,ESPORTSTMNT02_2578534,2022-02-11 10:53:26,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+85,ESPORTSTMNT02_2578570,2022-02-11 12:35:52,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+86,ESPORTSTMNT02_2578572,2022-02-11 13:41:29,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+87,ESPORTSTMNT02_2578644,2022-02-12 06:05:04,T1,Zeus,Oner,Faker,Gumayusi,Keria,Gen.G,Chovy,YoungJae,Quid,Ruler,Lospa,Blue
+88,ESPORTSTMNT02_2578670,2022-02-12 08:52:54,T1,Zeus,Oner,Faker,Gumayusi,Keria,Gen.G,Chovy,YoungJae,Quid,Ruler,Lospa,Blue
+89,ESPORTSTMNT02_2578683,2022-02-12 09:48:29,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+90,ESPORTSTMNT02_2578705,2022-02-12 11:39:40,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+91,ESPORTSTMNT02_2558737,2022-02-13 06:32:43,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Nongshim RedForce,DnDn,Dread,FIESTA,vital,Ghost,Blue
+92,ESPORTSTMNT02_2558760,2022-02-13 08:36:27,Nongshim RedForce,DnDn,Dread,FIESTA,vital,Ghost,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+93,ESPORTSTMNT02_2558763,2022-02-13 09:28:14,Fredit BRION,Sw0rd,UmTi,Lava,Hena,Delight,KT Rolster,Rascal,GIDEON,Aria,Aiming,Life,Red
+94,ESPORTSTMNT02_2558803,2022-02-13 11:51:35,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,KT Rolster,Rascal,GIDEON,Aria,Aiming,Life,Blue
+95,ESPORTSTMNT02_2558810,2022-02-13 12:54:51,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+96,ESPORTSTMNT03_2564348,2022-02-16 06:04:33,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Fredit BRION,Sw0rd,UmTi,Lava,Hena,Delight,Blue
+97,ESPORTSTMNT03_2564408,2022-02-16 08:38:09,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Blue
+98,ESPORTSTMNT03_2564418,2022-02-16 09:34:32,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+99,ESPORTSTMNT03_2564430,2022-02-16 10:31:02,Nongshim RedForce,Dread,Sylvie,Bdd,vital,Ghost,Gen.G,Zest,Peanut,Chovy,Ruler,Lehends,Red
+100,ESPORTSTMNT03_2564454,2022-02-16 12:07:13,Nongshim RedForce,Dread,Sylvie,Bdd,vital,Ghost,Gen.G,Zest,Peanut,Chovy,Ruler,Lehends,Red
+101,ESPORTSTMNT03_2545406,2022-02-17 04:55:27,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+102,ESPORTSTMNT03_2545467,2022-02-17 08:42:32,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+103,ESPORTSTMNT03_2545487,2022-02-17 09:48:53,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+104,ESPORTSTMNT03_2545531,2022-02-17 11:45:52,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Blue
+105,ESPORTSTMNT03_2545552,2022-02-17 12:44:59,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+106,ESPORTSTMNT03_2546137,2022-02-18 05:07:46,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+107,ESPORTSTMNT03_2546195,2022-02-18 08:52:37,KT Rolster,Rascal,GIDEON,Aria,Aiming,Life,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+108,ESPORTSTMNT03_2546210,2022-02-18 09:39:14,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Blue
+109,ESPORTSTMNT03_2546263,2022-02-18 11:33:05,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+110,ESPORTSTMNT03_2546764,2022-02-19 07:17:01,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+111,ESPORTSTMNT03_2546797,2022-02-19 08:40:32,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Red
+112,ESPORTSTMNT03_2546815,2022-02-19 09:52:57,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+113,ESPORTSTMNT03_2546854,2022-02-19 11:37:26,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+114,ESPORTSTMNT03_2546882,2022-02-19 12:45:19,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+115,ESPORTSTMNT03_2547358,2022-02-20 06:17:46,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Red
+116,ESPORTSTMNT03_2547417,2022-02-20 08:44:25,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Blue
+117,ESPORTSTMNT03_2547435,2022-02-20 09:40:04,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Blue
+118,ESPORTSTMNT03_2547455,2022-02-20 10:44:36,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+119,ESPORTSTMNT03_2547511,2022-02-20 12:30:08,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
+120,ESPORTSTMNT03_2547540,2022-02-20 13:35:52,T1,Zeus,Oner,Faker,Gumayusi,Keria,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Blue
+121,ESPORTSTMNT03_2568793,2022-02-23 07:06:11,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+122,ESPORTSTMNT03_2568857,2022-02-23 08:52:07,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+123,ESPORTSTMNT03_2568861,2022-02-23 09:45:56,T1,Zeus,Oner,Faker,Gumayusi,Keria,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Blue
+124,ESPORTSTMNT03_2568906,2022-02-23 11:41:55,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+125,ESPORTSTMNT03_2569332,2022-02-24 06:44:09,Fredit BRION,Sw0rd,UmTi,Lava,Hena,Delight,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+126,ESPORTSTMNT03_2569376,2022-02-24 08:38:36,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+127,ESPORTSTMNT03_2569382,2022-02-24 09:35:28,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+128,ESPORTSTMNT03_2549672,2022-02-24 10:31:08,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Hanwha Life Esports,DuDu,OnFleek,Karis,Cheoni,Vsta,Blue
+129,ESPORTSTMNT03_2569443,2022-02-24 12:17:16,Hanwha Life Esports,DuDu,OnFleek,Karis,Cheoni,Vsta,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Red
+130,ESPORTSTMNT03_2569744,2022-02-25 05:36:33,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Blue
+131,ESPORTSTMNT03_2569826,2022-02-25 08:35:04,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Blue
+132,ESPORTSTMNT03_2569847,2022-02-25 09:26:25,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+133,ESPORTSTMNT03_2569893,2022-02-25 11:45:49,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+134,ESPORTSTMNT03_2580134,2022-02-26 07:17:12,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Red
+135,ESPORTSTMNT03_2580158,2022-02-26 08:38:05,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Red
+136,ESPORTSTMNT03_2580163,2022-02-26 09:35:37,Hanwha Life Esports,DuDu,Seonbi,Karis,Cheoni,Baut,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+137,ESPORTSTMNT03_2580198,2022-02-26 11:41:14,Hanwha Life Esports,DuDu,Seonbi,Karis,Cheoni,Baut,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+138,ESPORTSTMNT03_2580261,2022-02-27 06:05:11,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+139,ESPORTSTMNT03_2580298,2022-02-27 08:41:20,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+140,ESPORTSTMNT03_2580310,2022-02-27 09:35:23,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Red
+141,ESPORTSTMNT03_2580333,2022-02-27 11:37:38,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Blue
+142,ESPORTSTMNT03_2580341,2022-02-27 12:42:55,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Liiv SANDBOX,Clozer,Croco,Dove,Ice,Kael,Blue
+143,ESPORTSTMNT01_2733966,2022-03-02 05:11:53,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Hanwha Life Esports,DuDu,Willer,Karis,SamD,Baut,Blue
+144,ESPORTSTMNT01_2744194,2022-03-02 08:41:27,Hanwha Life Esports,DuDu,Willer,Karis,SamD,Baut,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+145,ESPORTSTMNT01_2744217,2022-03-02 09:33:39,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Hanwha Life Esports,DuDu,Willer,Karis,SamD,Baut,Blue
+146,ESPORTSTMNT01_2734080,2022-03-02 10:32:14,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Blue
+147,ESPORTSTMNT01_2734124,2022-03-02 12:17:52,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+148,ESPORTSTMNT01_2734770,2022-03-03 06:55:53,Gen.G,Doran,Peanut,Chovy,Ophelia,Lehends,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+149,ESPORTSTMNT01_2744817,2022-03-03 08:40:29,Gen.G,Doran,Peanut,Chovy,Ophelia,Lehends,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+150,ESPORTSTMNT01_2744822,2022-03-03 09:42:33,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+151,ESPORTSTMNT01_2744887,2022-03-03 11:39:08,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Blue
+152,ESPORTSTMNT01_2735442,2022-03-04 05:27:39,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+153,ESPORTSTMNT01_2735520,2022-03-04 08:50:00,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+154,ESPORTSTMNT01_2735529,2022-03-04 09:44:36,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+155,ESPORTSTMNT01_2735569,2022-03-04 11:56:37,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+156,ESPORTSTMNT01_2780338,2022-03-05 08:10:00,Gen.G,Doran,Peanut,Quid,Ophelia,Lehends,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+157,ESPORTSTMNT01_2770391,2022-03-05 09:12:00,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Gen.G,Doran,Peanut,Quid,Ophelia,Lehends,Red
+158,ESPORTSTMNT01_2770414,2022-03-05 10:14:00,Gen.G,Doran,Peanut,Quid,Ophelia,Lehends,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+159,ESPORTSTMNT01_2770433,2022-03-05 11:53:00,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Blue
+160,ESPORTSTMNT01_2770483,2022-03-05 13:03:00,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+161,ESPORTSTMNT01_2770511,2022-03-05 14:09:00,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Blue
+162,ESPORTSTMNT01_2780901,2022-03-06 07:15:21,Liiv SANDBOX,Dove,Croco,Clozer,Envyy,Kael,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+163,ESPORTSTMNT01_2770975,2022-03-06 08:40:55,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+164,ESPORTSTMNT01_2770993,2022-03-06 09:38:33,T1,Zeus,Oner,Faker,Gumayusi,Keria,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+165,ESPORTSTMNT01_2771060,2022-03-06 11:44:32,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+166,ESPORTSTMNT01_2782567,2022-03-09 08:08:00,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+167,ESPORTSTMNT01_2782631,2022-03-09 09:06:00,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+168,ESPORTSTMNT01_2782634,2022-03-09 11:10:00,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Gen.G,Doran,Peanut,Ophelia,Ruler,Lehends,Red
+169,ESPORTSTMNT01_2782677,2022-03-09 11:52:22,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Gen.G,Doran,Peanut,Ophelia,Ruler,Lehends,Blue
+170,ESPORTSTMNT01_2782685,2022-03-09 13:19:00,Gen.G,Doran,Peanut,Ophelia,Ruler,Lehends,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Blue
+171,ESPORTSTMNT01_2773026,2022-03-10 06:57:21,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+172,ESPORTSTMNT01_2773051,2022-03-10 08:40:33,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+173,ESPORTSTMNT01_2773053,2022-03-10 09:43:23,Fredit BRION,Morgan,Raptor,Lava,Hena,Delight,Liiv SANDBOX,Howling,HamBak,Ten10,Envyy,Kael,Blue
+174,ESPORTSTMNT01_2773097,2022-03-10 11:36:10,Liiv SANDBOX,Howling,HamBak,Ten10,Envyy,Kael,Fredit BRION,Morgan,Raptor,Lava,Hena,Delight,Red
+175,ESPORTSTMNT01_2773445,2022-03-11 07:00:16,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+176,ESPORTSTMNT01_2773482,2022-03-11 08:45:51,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
+177,ESPORTSTMNT01_2773491,2022-03-11 09:44:28,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+178,ESPORTSTMNT01_2773503,2022-03-11 10:38:42,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Blue
+179,ESPORTSTMNT01_2783459,2022-03-11 12:45:31,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+180,ESPORTSTMNT04_2210408,2022-03-12 06:43:05,Liiv SANDBOX,Howling,HamBak,Ten10,Envyy,Prove,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+181,ESPORTSTMNT04_2210426,2022-03-12 08:39:41,Liiv SANDBOX,Howling,HamBak,Ten10,Envyy,Prove,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+182,ESPORTSTMNT04_2210427,2022-03-12 09:41:01,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+183,ESPORTSTMNT04_2210446,2022-03-12 11:38:07,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+184,ESPORTSTMNT04_2210465,2022-03-13 07:29:21,T1,Zeus,Oner,Faker,Gumayusi,Keria,Fredit BRION,Soboro,Listo,Feisty,Gamin,Loopy,Blue
+185,ESPORTSTMNT04_2210474,2022-03-13 08:27:21,Fredit BRION,Soboro,Listo,Feisty,Gamin,Loopy,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+186,ESPORTSTMNT04_2210486,2022-03-13 10:24:03,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+187,ESPORTSTMNT04_2210500,2022-03-13 11:43:44,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+188,ESPORTSTMNT04_2210501,2022-03-13 12:49:42,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+189,ESPORTSTMNT02_2661657,2022-03-16 07:32:42,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+190,ESPORTSTMNT02_2661670,2022-03-16 08:47:51,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Blue
+191,ESPORTSTMNT02_2661674,2022-03-16 09:47:31,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+192,ESPORTSTMNT02_2671880,2022-03-17 06:31:35,DRX,Kingen,Pyosik,Zeka,Taeyoon,BeryL,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+193,ESPORTSTMNT02_2662077,2022-03-17 08:39:25,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+194,ESPORTSTMNT02_2662096,2022-03-17 09:43:15,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+195,ESPORTSTMNT02_2662116,2022-03-17 11:39:22,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+196,ESPORTSTMNT02_2662130,2022-03-17 12:33:40,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+197,ESPORTSTMNT02_2662403,2022-03-18 06:41:12,T1,Zeus,Oner,Faker,Gumayusi,Keria,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Red
+198,ESPORTSTMNT02_2672267,2022-03-18 08:52:07,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+199,ESPORTSTMNT02_2672271,2022-03-18 09:39:38,T1,Zeus,Oner,Faker,Gumayusi,Keria,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Blue
+200,ESPORTSTMNT02_2672279,2022-03-18 10:34:54,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+201,ESPORTSTMNT02_2672309,2022-03-18 12:12:42,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Blue
+202,ESPORTSTMNT02_2672315,2022-03-18 12:58:38,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+203,ESPORTSTMNT02_2672498,2022-03-19 07:02:12,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+204,ESPORTSTMNT02_2662701,2022-03-19 08:51:56,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Red
+205,ESPORTSTMNT02_2662722,2022-03-19 09:45:38,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Blue
+206,ESPORTSTMNT02_2662767,2022-03-19 11:47:10,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Red
+207,ESPORTSTMNT02_2672695,2022-03-20 04:05:10,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Blue
+208,ESPORTSTMNT02_2672723,2022-03-20 06:41:55,Liiv SANDBOX,Dove,Croco,Clozer,Ice,Kael,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+209,ESPORTSTMNT02_2672727,2022-03-20 07:42:29,T1,Zeus,Oner,Faker,Gumayusi,Keria,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+210,ESPORTSTMNT02_2672743,2022-03-20 09:39:13,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+211,ESPORTSTMNT02_2672758,2022-03-20 10:37:02,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+212,ESPORTSTMNT02_2663581,2022-03-23 06:13:18,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+213,ESPORTSTMNT02_2663614,2022-03-23 08:49:41,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+214,ESPORTSTMNT02_2663616,2022-03-23 09:46:22,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+215,ESPORTSTMNT02_2663759,2022-03-24 06:05:22,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+216,ESPORTSTMNT02_2673595,2022-03-24 08:45:52,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+217,ESPORTSTMNT02_2673596,2022-03-24 09:51:49,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+218,ESPORTSTMNT02_2673599,2022-03-24 10:52:05,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+219,ESPORTSTMNT02_2673605,2022-03-24 11:45:17,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+220,ESPORTSTMNT02_2673855,2022-03-26 06:59:45,T1,Zeus,Oner,Faker,Gumayusi,Keria,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+221,ESPORTSTMNT02_2664035,2022-03-26 08:38:18,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+222,ESPORTSTMNT02_2664040,2022-03-26 09:21:35,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+223,ESPORTSTMNT02_2664192,2022-03-27 07:01:45,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+224,ESPORTSTMNT02_2664226,2022-03-27 08:48:43,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+225,ESPORTSTMNT02_2664231,2022-03-27 09:50:27,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,DWG KIA,HOYA,Canyon,ShowMaker,deokdam,Kellin,Red
+226,ESPORTSTMNT02_2664241,2022-03-27 10:50:57,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,DWG KIA,HOYA,Canyon,ShowMaker,deokdam,Kellin,Blue
+227,ESPORTSTMNT02_2664248,2022-03-27 11:48:54,DWG KIA,HOYA,Canyon,ShowMaker,deokdam,Kellin,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+228,ESPORTSTMNT02_2674644,2022-04-02 07:12:38,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+229,ESPORTSTMNT02_2674660,2022-04-02 09:11:08,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
+230,ESPORTSTMNT02_2674677,2022-04-02 10:20:21,T1,Zeus,Oner,Faker,Gumayusi,Keria,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Blue
+231,ESPORTSTMNT02_2674680,2022-04-02 11:30:46,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+232,ESPORTSTMNT02_2810546,2022-06-15 06:51:56,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+233,ESPORTSTMNT02_2820281,2022-06-15 09:00:17,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+234,ESPORTSTMNT02_2820291,2022-06-15 10:02:25,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+235,ESPORTSTMNT02_2820303,2022-06-15 10:59:29,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+236,ESPORTSTMNT02_2820359,2022-06-15 12:55:42,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+237,ESPORTSTMNT02_2840016,2022-06-16 07:11:08,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+238,ESPORTSTMNT02_2840052,2022-06-16 08:48:04,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+239,ESPORTSTMNT02_2840060,2022-06-16 10:27:35,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Red
+240,ESPORTSTMNT02_2830073,2022-06-16 11:48:41,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Red
+241,ESPORTSTMNT02_2840427,2022-06-17 07:19:10,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+242,ESPORTSTMNT02_2840440,2022-06-17 08:58:09,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+243,ESPORTSTMNT05_2780049,2022-06-17 10:02:45,T1,Zeus,Oner,Faker,Gumayusi,Keria,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Blue
+244,ESPORTSTMNT05_2780070,2022-06-17 11:56:24,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+245,ESPORTSTMNT02_2830653,2022-06-18 08:15:57,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+246,ESPORTSTMNT02_2830654,2022-06-18 08:44:59,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+247,ESPORTSTMNT02_2830660,2022-06-18 09:40:33,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+248,ESPORTSTMNT02_2830678,2022-06-18 11:50:42,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+249,ESPORTSTMNT02_2830769,2022-06-19 06:55:20,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
+250,ESPORTSTMNT02_2830808,2022-06-19 08:47:21,T1,Zeus,Oner,Faker,Gumayusi,Keria,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Blue
+251,ESPORTSTMNT02_2840731,2022-06-19 10:12:05,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+252,ESPORTSTMNT02_2840747,2022-06-19 12:18:26,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Blue
+253,ESPORTSTMNT02_2830829,2022-06-19 12:52:05,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Red
+254,ESPORTSTMNT03_2793981,2022-06-22 06:21:27,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Blue
+255,ESPORTSTMNT03_2794047,2022-06-22 08:39:02,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Blue
+256,ESPORTSTMNT03_2794070,2022-06-22 09:41:53,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Blue
+257,ESPORTSTMNT03_2794082,2022-06-22 10:36:22,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Red
+258,ESPORTSTMNT03_2794153,2022-06-22 12:18:42,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Red
+259,ESPORTSTMNT03_2794767,2022-06-23 06:41:35,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Red
+260,ESPORTSTMNT03_2794828,2022-06-23 09:03:54,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Red
+261,ESPORTSTMNT03_2794885,2022-06-23 11:10:14,T1,Zeus,Oner,Faker,Gumayusi,Keria,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Blue
+262,ESPORTSTMNT03_2794935,2022-06-23 12:19:30,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+263,ESPORTSTMNT03_2795619,2022-06-24 06:40:14,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+264,ESPORTSTMNT03_2795673,2022-06-24 08:37:20,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+265,ESPORTSTMNT03_2795690,2022-06-24 09:33:17,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+266,ESPORTSTMNT03_2785721,2022-06-24 10:33:24,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+267,ESPORTSTMNT03_2785767,2022-06-24 11:59:53,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+268,ESPORTSTMNT03_2786350,2022-06-25 08:10:51,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+269,ESPORTSTMNT03_2786361,2022-06-25 08:47:39,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+270,ESPORTSTMNT03_2786395,2022-06-25 09:47:04,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Blue
+271,ESPORTSTMNT03_2786455,2022-06-25 11:44:46,KT Rolster,Rascal,Cuzz,Aria,Aiming,Life,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+272,ESPORTSTMNT03_2787037,2022-06-26 08:19:26,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Red
+273,ESPORTSTMNT03_2787043,2022-06-26 08:52:14,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Blue
+274,ESPORTSTMNT03_2787058,2022-06-26 09:47:24,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+275,ESPORTSTMNT03_2787149,2022-06-26 11:57:44,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,Blue
+276,ESPORTSTMNT03_2787163,2022-06-26 12:39:03,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+277,ESPORTSTMNT06_2510001,2022-06-29 06:58:29,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+278,ESPORTSTMNT06_2510009,2022-06-29 08:34:45,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+279,ESPORTSTMNT06_2500014,2022-06-29 09:39:20,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+280,ESPORTSTMNT06_2500018,2022-06-29 10:44:47,T1,Zeus,Oner,Faker,Gumayusi,Keria,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+281,ESPORTSTMNT06_2500033,2022-06-29 12:22:15,T1,Zeus,Oner,Faker,Gumayusi,Keria,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+282,ESPORTSTMNT06_2500037,2022-06-29 13:16:11,T1,Zeus,Oner,Faker,Gumayusi,Keria,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+283,ESPORTSTMNT06_2500054,2022-06-30 06:56:00,Fredit BRION,Morgan,Raptor,Lava,Hena,Delight,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+284,ESPORTSTMNT06_2500065,2022-06-30 08:48:50,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Fredit BRION,Morgan,Raptor,Lava,Hena,Delight,Blue
+285,ESPORTSTMNT06_2500066,2022-06-30 09:44:56,Fredit BRION,Morgan,Raptor,Lava,Hena,Delight,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Red
+286,ESPORTSTMNT06_2500067,2022-06-30 10:40:42,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Blue
+287,ESPORTSTMNT06_2500074,2022-06-30 12:23:24,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+288,ESPORTSTMNT06_2500154,2022-07-01 06:36:49,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Red
+289,ESPORTSTMNT06_2500165,2022-07-01 08:37:34,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+290,ESPORTSTMNT06_2500166,2022-07-01 09:37:57,T1,Zeus,Oner,Faker,Gumayusi,Keria,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+291,ESPORTSTMNT06_2500194,2022-07-01 11:48:26,T1,Zeus,Oner,Faker,Gumayusi,Keria,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+292,ESPORTSTMNT06_2510204,2022-07-02 07:06:28,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Fredit BRION,Sw0rd,UmTi,Lava,Hena,Delight,Blue
+293,ESPORTSTMNT06_2500207,2022-07-02 08:42:06,Fredit BRION,Sw0rd,UmTi,Lava,Hena,Delight,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+294,ESPORTSTMNT06_2510219,2022-07-02 09:37:15,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+295,ESPORTSTMNT06_2510232,2022-07-02 11:39:32,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+296,ESPORTSTMNT06_2510234,2022-07-03 06:25:21,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Peter,Blue
+297,ESPORTSTMNT06_2510240,2022-07-03 08:40:08,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Blue
+298,ESPORTSTMNT06_2510243,2022-07-03 09:31:38,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+299,ESPORTSTMNT06_2510261,2022-07-03 11:39:06,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+300,ESPORTSTMNT04_2431079,2022-07-06 08:08:00,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+301,ESPORTSTMNT04_2431097,2022-07-06 09:09:00,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Blue
+302,ESPORTSTMNT04_2431101,2022-07-06 10:02:00,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+303,ESPORTSTMNT04_2431109,2022-07-06 11:48:00,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,Fredit BRION,Sw0rd,UmTi,Lava,Gamin,Delight,Blue
+304,ESPORTSTMNT04_2431125,2022-07-06 12:41:00,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,Fredit BRION,Sw0rd,UmTi,Lava,Hena,Delight,Blue
+305,ESPORTSTMNT04_2431278,2022-07-07 08:10:00,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+306,ESPORTSTMNT04_2411208,2022-07-07 09:03:00,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+307,ESPORTSTMNT04_2411209,2022-07-07 10:06:00,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+308,ESPORTSTMNT04_2411213,2022-07-07 10:43:44,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Blue
+309,ESPORTSTMNT04_2411237,2022-07-07 12:22:46,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+310,ESPORTSTMNT04_2431316,2022-07-07 13:10:54,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+311,ESPORTSTMNT04_2411346,2022-07-08 07:03:36,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
+312,ESPORTSTMNT04_2411358,2022-07-08 08:39:26,T1,Zeus,Oner,Faker,Gumayusi,Keria,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Blue
+313,ESPORTSTMNT04_2411364,2022-07-08 09:34:25,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+314,ESPORTSTMNT04_2411371,2022-07-08 10:30:09,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+315,ESPORTSTMNT04_2411387,2022-07-08 12:07:17,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,Blue
+316,ESPORTSTMNT04_2411388,2022-07-08 12:56:43,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+317,ESPORTSTMNT04_2411452,2022-07-09 08:09:00,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+318,ESPORTSTMNT04_2411473,2022-07-09 09:10:00,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+319,ESPORTSTMNT04_2411474,2022-07-09 11:09:00,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Red
+320,ESPORTSTMNT04_2411485,2022-07-09 12:15:00,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Red
+321,ESPORTSTMNT04_2411510,2022-07-10 08:06:00,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+322,ESPORTSTMNT04_2411522,2022-07-10 09:13:00,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+323,ESPORTSTMNT04_2411526,2022-07-10 11:06:00,T1,Zeus,Oner,Faker,Gumayusi,Keria,Fredit BRION,Sw0rd,UmTi,Lava,Gamin,Delight,Blue
+324,ESPORTSTMNT04_2411536,2022-07-10 11:58:00,Fredit BRION,Sw0rd,UmTi,Lava,Gamin,Delight,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+325,ESPORTSTMNT05_2951501,2022-07-13 08:09:16,Hanwha Life Esports,DuDu,OnFleek,Karis,Cheoni,Vsta,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+326,ESPORTSTMNT05_2951513,2022-07-13 08:47:15,Hanwha Life Esports,DuDu,OnFleek,Karis,Cheoni,Vsta,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
+327,ESPORTSTMNT05_2951542,2022-07-13 09:56:00,T1,Zeus,Oner,Faker,Gumayusi,Keria,Hanwha Life Esports,DuDu,OnFleek,Karis,Cheoni,Vsta,Blue
+328,ESPORTSTMNT05_2951551,2022-07-13 11:25:55,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Blue
+329,ESPORTSTMNT05_2951582,2022-07-13 12:55:00,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+330,ESPORTSTMNT05_2951924,2022-07-14 07:25:52,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+331,ESPORTSTMNT05_2951965,2022-07-14 08:48:50,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+332,ESPORTSTMNT05_2951988,2022-07-14 10:06:39,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+333,ESPORTSTMNT05_2951991,2022-07-14 10:49:26,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,Blue
+334,ESPORTSTMNT05_2952017,2022-07-14 12:30:29,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Red
+335,ESPORTSTMNT05_2952287,2022-07-15 07:17:18,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Nongshim RedForce,Canna,Sylvie,Bdd,Ghost,Effort,Blue
+336,ESPORTSTMNT05_2942187,2022-07-15 08:42:05,Nongshim RedForce,Canna,Sylvie,Bdd,Ghost,Effort,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Red
+337,ESPORTSTMNT05_2952305,2022-07-15 09:59:58,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Hanwha Life Esports,DuDu,OnFleek,Karis,Cheoni,Vsta,Blue
+338,ESPORTSTMNT05_2942209,2022-07-15 11:43:28,Hanwha Life Esports,DuDu,OnFleek,Karis,Cheoni,Vsta,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+339,ESPORTSTMNT05_2942470,2022-07-16 06:48:26,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,Blue
+340,ESPORTSTMNT05_2942491,2022-07-16 08:51:09,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+341,ESPORTSTMNT05_2942496,2022-07-16 09:46:51,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+342,ESPORTSTMNT05_2942515,2022-07-16 11:36:57,DRX,Kingen,Juhan,Zeka,Deft,BeryL,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+343,ESPORTSTMNT05_2942806,2022-07-17 07:17:05,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+344,ESPORTSTMNT05_2942826,2022-07-17 08:37:22,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Red
+345,ESPORTSTMNT05_2942832,2022-07-17 09:28:58,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Nongshim RedForce,Canna,Sylvie,Bdd,Ghost,SnowFlower,Blue
+346,ESPORTSTMNT05_2942869,2022-07-17 11:37:36,Nongshim RedForce,Canna,Sylvie,Bdd,Ghost,SnowFlower,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+347,ESPORTSTMNT05_2980201,2022-07-20 08:06:00,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,DRX,Kingen,Juhan,Zeka,Deft,BeryL,Blue
+348,ESPORTSTMNT05_2980212,2022-07-20 09:05:00,DRX,Kingen,Juhan,Zeka,Deft,BeryL,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+349,ESPORTSTMNT05_2980213,2022-07-20 09:59:00,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+350,ESPORTSTMNT05_2980216,2022-07-20 11:49:00,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Red
+351,ESPORTSTMNT05_2980240,2022-07-20 13:47:59,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Red
+352,ESPORTSTMNT05_2990357,2022-07-21 06:43:48,T1,Zeus,Oner,Faker,Gumayusi,Keria,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,Red
+353,ESPORTSTMNT05_2990375,2022-07-21 08:39:36,T1,Zeus,Oner,Faker,Gumayusi,Keria,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,Blue
+354,ESPORTSTMNT05_2990380,2022-07-21 09:35:25,T1,Zeus,Oner,Faker,Gumayusi,Keria,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,Blue
+355,ESPORTSTMNT05_2990388,2022-07-21 10:37:45,Hanwha Life Esports,DuDu,OnFleek,Karis,Cheoni,Vsta,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+356,ESPORTSTMNT05_2990418,2022-07-21 12:13:46,Hanwha Life Esports,DuDu,OnFleek,Karis,Cheoni,Vsta,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+357,ESPORTSTMNT05_2980509,2022-07-22 06:38:34,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+358,ESPORTSTMNT05_2980526,2022-07-22 08:48:59,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+359,ESPORTSTMNT05_2980527,2022-07-22 09:41:01,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Blue
+360,ESPORTSTMNT05_2980537,2022-07-22 11:35:08,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+361,ESPORTSTMNT05_2980538,2022-07-22 12:24:26,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Blue
+362,ESPORTSTMNT05_2980556,2022-07-23 06:15:48,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
+363,ESPORTSTMNT05_2980569,2022-07-23 08:41:03,T1,Zeus,Oner,Faker,Gumayusi,Keria,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+364,ESPORTSTMNT05_2980571,2022-07-23 09:44:41,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+365,ESPORTSTMNT05_2980572,2022-07-23 10:44:44,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Blue
+366,ESPORTSTMNT05_2980586,2022-07-23 12:20:17,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+367,ESPORTSTMNT05_2980587,2022-07-23 13:18:06,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,Blue
+368,ESPORTSTMNT05_2990662,2022-07-24 06:41:23,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+369,ESPORTSTMNT05_2990683,2022-07-24 09:09:13,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+370,ESPORTSTMNT05_2990684,2022-07-24 10:06:48,Hanwha Life Esports,DuDu,OnFleek,Karis,Cheoni,Vsta,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+371,ESPORTSTMNT05_2990701,2022-07-24 11:42:46,Hanwha Life Esports,DuDu,Willer,Karis,Cheoni,Vsta,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+372,ESPORTSTMNT06_2540974,2022-07-27 06:14:53,T1,Zeus,Oner,Faker,Gumayusi,Keria,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+373,ESPORTSTMNT06_2531013,2022-07-27 08:40:21,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
+374,ESPORTSTMNT06_2531015,2022-07-27 09:37:04,T1,Zeus,Oner,Faker,Gumayusi,Keria,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+375,ESPORTSTMNT06_2531022,2022-07-27 10:33:40,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Red
+376,ESPORTSTMNT06_2531032,2022-07-27 12:18:52,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+377,ESPORTSTMNT06_2531036,2022-07-27 13:04:05,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Red
+378,ESPORTSTMNT06_2531135,2022-07-28 07:11:51,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,Red
+379,ESPORTSTMNT06_2531145,2022-07-28 08:40:40,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,Blue
+380,ESPORTSTMNT06_2531146,2022-07-28 09:35:37,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Blue
+381,ESPORTSTMNT06_2531151,2022-07-28 10:30:17,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+382,ESPORTSTMNT06_2531168,2022-07-28 12:08:54,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+383,ESPORTSTMNT06_2531311,2022-07-29 06:28:24,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+384,ESPORTSTMNT06_2531319,2022-07-29 08:39:26,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+385,ESPORTSTMNT06_2531322,2022-07-29 09:48:31,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+386,ESPORTSTMNT06_2531323,2022-07-29 10:45:45,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+387,ESPORTSTMNT06_2531329,2022-07-29 12:41:44,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+388,ESPORTSTMNT06_2531436,2022-07-30 06:15:16,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+389,ESPORTSTMNT06_2531445,2022-07-30 08:47:12,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Blue
+390,ESPORTSTMNT06_2531452,2022-07-30 09:50:19,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+391,ESPORTSTMNT06_2531456,2022-07-30 10:41:07,T1,Zeus,Oner,Faker,Gumayusi,Keria,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+392,ESPORTSTMNT06_2531479,2022-07-30 12:26:43,T1,Zeus,Oner,Faker,Gumayusi,Keria,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+393,ESPORTSTMNT06_2541572,2022-07-31 06:01:04,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+394,ESPORTSTMNT06_2541596,2022-07-31 08:52:58,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+395,ESPORTSTMNT06_2541603,2022-07-31 09:48:47,Hanwha Life Esports,DuDu,Willer,Karis,Cheoni,Vsta,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Red
+396,ESPORTSTMNT06_2541624,2022-07-31 10:57:31,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Red
+397,ESPORTSTMNT06_2541642,2022-07-31 12:32:27,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Red
+398,ESPORTSTMNT06_2541942,2022-08-03 06:47:42,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Bible,Blue
+399,ESPORTSTMNT06_2541947,2022-08-03 08:42:04,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Bible,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+400,ESPORTSTMNT06_2541948,2022-08-03 09:35:32,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+401,ESPORTSTMNT06_2541974,2022-08-03 11:35:56,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+402,ESPORTSTMNT06_2532051,2022-08-04 06:22:17,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+403,ESPORTSTMNT06_2532062,2022-08-04 08:41:22,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+404,ESPORTSTMNT06_2532064,2022-08-04 09:37:07,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+405,ESPORTSTMNT06_2532067,2022-08-04 10:35:36,T1,Zeus,Oner,Faker,Gumayusi,Keria,Hanwha Life Esports,DuDu,Willer,Karis,Cheoni,Vsta,Blue
+406,ESPORTSTMNT06_2532090,2022-08-04 12:10:30,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+407,ESPORTSTMNT06_2542141,2022-08-05 06:15:05,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,Blue
+408,ESPORTSTMNT06_2542154,2022-08-05 08:56:31,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+409,ESPORTSTMNT06_2532177,2022-08-05 10:02:46,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,Blue
+410,ESPORTSTMNT06_2532178,2022-08-05 11:02:15,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Bible,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+411,ESPORTSTMNT06_2532199,2022-08-05 12:29:29,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Bible,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Blue
+412,ESPORTSTMNT06_2532200,2022-08-05 13:32:35,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Bible,Blue
+413,ESPORTSTMNT06_2532203,2022-08-06 06:16:11,Hanwha Life Esports,DuDu,OnFleek,Karis,Cheoni,Vsta,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+414,ESPORTSTMNT06_2532217,2022-08-06 08:45:33,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Hanwha Life Esports,DuDu,OnFleek,Karis,Cheoni,Vsta,Blue
+415,ESPORTSTMNT06_2532218,2022-08-06 09:39:05,Hanwha Life Esports,DuDu,OnFleek,Karis,Cheoni,Vsta,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Red
+416,ESPORTSTMNT06_2532219,2022-08-06 10:35:52,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+417,ESPORTSTMNT06_2532228,2022-08-06 12:14:21,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Blue
+418,ESPORTSTMNT06_2532229,2022-08-06 13:08:06,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+419,ESPORTSTMNT06_2542204,2022-08-07 07:14:03,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+420,ESPORTSTMNT06_2542219,2022-08-07 08:39:22,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
+421,ESPORTSTMNT06_2542222,2022-08-07 09:39:49,T1,Zeus,Oner,Faker,Gumayusi,Keria,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,Blue
+422,ESPORTSTMNT06_2542223,2022-08-07 10:36:59,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+423,ESPORTSTMNT06_2542228,2022-08-07 12:15:13,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Red
+424,ESPORTSTMNT04_2450683,2022-08-10 06:35:01,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Blue
+425,ESPORTSTMNT04_2450697,2022-08-10 08:44:10,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+426,ESPORTSTMNT04_2450715,2022-08-10 11:12:25,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
+427,ESPORTSTMNT04_2450722,2022-08-10 12:15:10,T1,Zeus,Oner,Faker,Gumayusi,Keria,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+428,ESPORTSTMNT04_2450819,2022-08-11 06:31:22,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Moham,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Red
+429,ESPORTSTMNT04_2450840,2022-08-11 08:51:14,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Red
+430,ESPORTSTMNT04_2470875,2022-08-11 09:57:37,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+431,ESPORTSTMNT04_2470904,2022-08-11 11:33:37,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+432,ESPORTSTMNT04_2450972,2022-08-12 06:28:40,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+433,ESPORTSTMNT04_2450984,2022-08-12 08:43:31,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,Red
+434,ESPORTSTMNT04_2450986,2022-08-12 09:39:36,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+435,ESPORTSTMNT04_2450994,2022-08-12 11:38:33,Fredit BRION,Morgan,UmTi,Lava,Hena,Delight,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+436,ESPORTSTMNT04_2451137,2022-08-13 06:08:26,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+437,ESPORTSTMNT04_2451155,2022-08-13 08:48:27,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Blue
+438,ESPORTSTMNT04_2451156,2022-08-13 09:41:40,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+439,ESPORTSTMNT04_2451162,2022-08-13 11:04:52,T1,Zeus,Oner,Faker,Gumayusi,Keria,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,Blue
+440,ESPORTSTMNT04_2451186,2022-08-13 12:48:01,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+441,ESPORTSTMNT04_2471371,2022-08-14 04:02:23,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Blue
+442,ESPORTSTMNT04_2471384,2022-08-14 06:41:51,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+443,ESPORTSTMNT04_2471386,2022-08-14 07:38:12,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Hanwha Life Esports,DuDu,OnFleek,Karis,SamD,Vsta,Red
+444,ESPORTSTMNT04_2471388,2022-08-14 08:32:13,Nongshim RedForce,Canna,Dread,Bdd,Ghost,SnowFlower,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Blue
+445,ESPORTSTMNT04_2471406,2022-08-14 10:13:38,Kwangdong Freecs,Kiin,Ellim,FATE,Teddy,Hoit,Nongshim RedForce,Canna,Dread,Bdd,Ghost,Effort,Red
+446,ESPORTSTMNT04_2451564,2022-08-17 06:17:37,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+447,ESPORTSTMNT04_2451579,2022-08-17 08:39:14,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Red
+448,ESPORTSTMNT04_2451580,2022-08-17 09:33:42,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Blue
+449,ESPORTSTMNT04_2451582,2022-08-17 10:32:27,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,DRX,Kingen,Pyosik,Zeka,Deft,BeryL,Blue
+450,ESPORTSTMNT04_2471698,2022-08-18 05:53:10,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+451,ESPORTSTMNT04_2451647,2022-08-18 08:50:26,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+452,ESPORTSTMNT04_2451654,2022-08-18 10:39:10,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Blue
+453,ESPORTSTMNT04_2451657,2022-08-18 11:34:28,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Red
+454,ESPORTSTMNT04_2451662,2022-08-18 12:38:48,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,KT Rolster,Rascal,Cuzz,VicLa,Aiming,Life,Blue
+455,ESPORTSTMNT04_2471790,2022-08-20 06:42:48,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Blue
+456,ESPORTSTMNT04_2471796,2022-08-20 08:37:32,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+457,ESPORTSTMNT04_2471797,2022-08-20 09:37:55,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Blue
+458,ESPORTSTMNT04_2471799,2022-08-20 10:32:11,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Liiv SANDBOX,Dove,Croco,Clozer,Prince,Kael,Blue
+459,ESPORTSTMNT04_2451769,2022-08-21 07:42:36,T1,Zeus,Oner,Faker,Gumayusi,Keria,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Blue
+460,ESPORTSTMNT04_2451770,2022-08-21 08:33:45,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,T1,Zeus,Oner,Faker,Gumayusi,Keria,Red
+461,ESPORTSTMNT04_2451771,2022-08-21 09:22:33,DWG KIA,Nuguri,Canyon,ShowMaker,deokdam,Kellin,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
+462,ESPORTSTMNT04_2451774,2022-08-21 10:23:15,T1,Zeus,Oner,Faker,Gumayusi,Keria,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Red
+463,ESPORTSTMNT04_2451777,2022-08-21 11:18:32,T1,Zeus,Oner,Faker,Gumayusi,Keria,DWG KIA,Burdol,Canyon,ShowMaker,deokdam,Kellin,Blue
+464,ESPORTSTMNT04_2451974,2022-08-28 02:32:35,T1,Zeus,Oner,Faker,Gumayusi,Keria,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+465,ESPORTSTMNT04_2472110,2022-08-28 07:27:58,T1,Zeus,Oner,Faker,Gumayusi,Keria,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,Red
+466,ESPORTSTMNT04_2472111,2022-08-28 08:18:21,Gen.G,Doran,Peanut,Chovy,Ruler,Lehends,T1,Zeus,Oner,Faker,Gumayusi,Keria,Blue
